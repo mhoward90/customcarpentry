@@ -38,9 +38,11 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .site-about-company {
-  background-image: url("/images/team/lads.png");
-  background-repeat: no-repeat;
-  background-size: auto;
+  object-fit: fill;
+}
+
+.site-about-company img {
+  height: 400px;
 }
 
 .site-navigation .navbar-toggler .icon-bar {
@@ -53,4 +55,8 @@ h1,h2,h3,h4,h5,h6 {
 
 .btn-secondary:hover {
   background-color: #c6993a;
+}
+
+.site-project-header-content h1 span {
+  color: #c6993a;
 }

@@ -1,10 +1,10 @@
 ---
-title: "OSEN CLOCK"
-date: 2019-12-23T15:56:43+06:00
+title: "OUTDOOR FOOD STORE"
+date: 2019-12-23T15:55:44+06:00
 type: portfolio
-image: "images/projects/project-thumb-two.jpg"
-category: ["PRODUCT DESIGN"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+image: "images/projects/ramsay.jpeg"
+category: ["CARPENTRY"]
+project_images: ["images/projects/ramsay-1.jpeg", "images/projects/ramsay-2.jpeg"]
 ---
 
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
