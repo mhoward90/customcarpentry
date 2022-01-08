@@ -4,6 +4,9 @@ title         = "Custom Carpentry | Carpentry Services in the South West"
 theme         = "roxo-hugo"
 summarylength = 25
 
+[build]
+publish = "public"
+
 # Site Menus
 [menu]
   # Navbar Menus
