@@ -1,0 +1,34 @@
+enable  : true
+title   : "WHAT OUR CLIENTS SAY"
+subtitle: "What our clients says about our services."
+testimonial_item :
+  - thumb : "images/testimonial/user-thumb-one.jpg"
+    name  : "Keith Parr"
+    company_position: "CEO, Maff Howard"
+    quote : > 
+            "We were really happy with the work that Michael completed, he built me a treehouse in my garden." 
+  - thumb : "images/testimonial/user-thumb-one.jpg"
+    name  : "Keith Parr"
+    company_position: "CEO, Maff Howard"
+    quote : > 
+            "We were really happy with the work that Michael completed, he built me a treehouse in my garden." 
+  - thumb : "images/testimonial/user-thumb-one.jpg"
+    name  : "Keith Parr"
+    company_position: "CEO, Maff Howard"
+    quote : > 
+            "We were really happy with the work that Michael completed, he built me a treehouse in my garden." 
+  - thumb : "images/testimonial/user-thumb-one.jpg"
+    name  : "Keith Parr"
+    company_position: "CEO, Maff Howard"
+    quote : > 
+            "We were really happy with the work that Michael completed, he built me a treehouse in my garden." 
+  - thumb : "images/testimonial/user-thumb-one.jpg"
+    name  : "Keith Parr"
+    company_position: "CEO, Maff Howard"
+    quote : > 
+            "We were really happy with the work that Michael completed, he built me a treehouse in my garden." 
+  - thumb : "images/testimonial/user-thumb-one.jpg"
+    name  : "Keith Parr"
+    company_position: "CEO, Maff Howard"
+    quote : > 
+            "We were really happy with the work that Michael completed, he built me a treehouse in my garden." 

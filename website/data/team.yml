@@ -1,0 +1,14 @@
+enable  : true
+title   : Our Team
+members  :
+  - image       : images/team/mike.png
+    name        : MIKE HOWARD
+    designation : Founder
+    facebook    : https://facebook.com
+    instagram   : https://instagram.com
+
+  - image       : images/team/kieron.png
+    name        : KIERAN RODD
+    designation : Carpenter
+    facebook    : https://facebook.com
+    instagram   : https://instagram.com

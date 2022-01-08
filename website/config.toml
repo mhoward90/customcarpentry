@@ -1,0 +1,117 @@
+baseURL       = "https://customcarpentrysouthwest.co.uk"
+languageCode  = "en-us"
+title         = "Custom Carpentry | Carpentry Services in the South West"
+theme         = "roxo-hugo"
+summarylength = 25
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name    = "Home"
+    url     = ""
+    weight  = 1
+  [[menu.nav]]
+    name    = "About"
+    url     = "about"
+    weight  = 2
+  [[menu.nav]]
+    name    = "Portfolio"
+    url     = "portfolio"
+    weight  = 3
+  [[menu.nav]]
+    name    = "Contact us"
+    url     = "contact"
+    weight  = 4
+
+# Site Params
+[params]
+  logo = "images/cc-logo.png"
+  dateFormat = "26 FEB 1994"
+  # Meta data
+  description = "Custom Carpentry | Carpentry Services in the South West"
+  author = "Custom Carpentry"
+  # Google Analitycs
+  googleAnalitycsID = "G-M08TY5ZD3T"
+  # We're using formspree.io for form handling, paste your formspree url below
+  formspreeFormUrl  = "https://formspree.io/myykjpje"
+
+  # Contact Form
+  [params.contactForm]
+    placeholder_first_name        = "First Name"
+    placeholder_last_name         = "Last Name"
+    placeholder_email             = "Email"
+    placeholder_about_the_project = "About the Project"
+    send_message                  = "Send Message"
+  
+  # Navbar Action Button
+  [params.navAction]
+    status  = true
+    name    = "Contact us"
+    url     = "contact"
+  
+
+  # Banner Section
+  [params.banner]
+    enable                = true
+    background_image      = "images/backgrounds/background.jpeg"
+    heading               = "We are a Plymouth based Carpentry and Building company"
+    tagline               = "We specialise in custom builds, and all your domestic carpentry jobs to garden and commercial projects as well as any Maintenance requirements."
+    primary_button        = "See Our Work"
+    primary_button_url    = "portfolio"
+    secondary_button      = "Contact us"
+    secondary_button_url  = "contact"
+
+  [params.portfolio]
+    enable    = true
+    title     = "OUR RECENT WORK"
+    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+
+  [params.call_to_action]
+    enable              = true
+    background_image    = "images/backgrounds/cta-background.jpg"
+    title               = "LET’S WORK TOGETHER"
+    primary_button      = "Submit Query"
+    primary_button_url  = "contact"
+
+  [params.footer]
+    # Footer Contact Info
+    [params.footer.contactInfo]
+      title   = "Contact Info"
+      address = "713 Elmwood St.<br>Prior Lake, MN 55372"
+      phone   = "409-896-1444"
+      email   = "info@roxo.co"
+      # Footer Sitemap
+      [params.footer.sitemap]
+        title   = "Sitemap"
+        [[params.footer.sitemap.link]]
+          name = "About Company"
+          url  = "about"
+        [[params.footer.sitemap.link]]
+          name = "Projects"
+          url  = "portfolio"
+        [[params.footer.sitemap.link]]
+          name = "Blog"
+          url  = "blog"
+        [[params.footer.sitemap.link]]
+          name = "Contact"
+          url  = "contact"
+      # Footer Social Media
+      [params.footer.social]
+        title   = "Social Media"
+        [[params.footer.social.link]]
+          name = "Medium"
+          url  = "#"
+        [[params.footer.social.link]]
+          name = "Behance"
+          url  = "#"
+        [[params.footer.social.link]]
+          name = "Dribbble"
+          url  = "#"
+        [[params.footer.social.link]]
+          name = "Instagram"
+          url  = "#"
+      # Footer Service
+      [params.footer.service]
+        title       = "We help brands:"
+        description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
