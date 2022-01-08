@@ -1,0 +1,56 @@
+.btn-primary {
+  background-color: #c6993a;
+}
+.site-navigation {
+  background-color: #000209;
+}
+
+.site-navigation .nav-item .nav-link {
+  color: white;
+}
+
+.site-navigation .navbar-brand img {
+  max-width: 110px;
+}
+
+.site-footer {
+  background-color: #000209;
+}
+
+.site-footer img {
+  max-width: 110px;
+}
+
+.btn-secondary {
+  background-color: #2d3136;
+}
+
+.site-counter {
+  background-color: #c6993a;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  color: black;
+}
+
+.site-team-member-content h3 {
+  color:#c6993a;
+}
+
+.site-about-company {
+  background-image: url("/images/team/lads.png");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.site-navigation .navbar-toggler .icon-bar {
+  background-color:#c6993a;
+}
+
+.site-project-item-content span, .site-blog-post-content span {
+  color:#c6993a;
+}
+
+.btn-secondary:hover {
+  background-color: #c6993a;
+}
