@@ -38,11 +38,13 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .site-about-company {
-  object-fit: fill;
+  background-color: #c6993a;
 }
 
 .site-about-company img {
-  height: 400px;
+  width: 100%; /* or any custom size */
+  height: 450px; 
+  object-fit: cover;
 }
 
 .site-navigation .navbar-toggler .icon-bar {
@@ -59,4 +61,58 @@ h1,h2,h3,h4,h5,h6 {
 
 .site-project-header-content h1 span {
   color: #c6993a;
+}
+
+.site-hero-content h1 span {
+  background-color: black;
+}
+
+.site-hero-content h6 span {
+  background-color: black;
+}
+
+.site-hero-content h1,h6 {
+  color: white;
+}
+
+.site-hero-content h1 {
+  margin-bottom: 25px;
+}
+
+.site-hero-content h6 {
+  margin-bottom: 75px;
+  font-size: 20px;
+}
+
+.site-project-cta {
+  color: black;
+}
+
+.site-project-cta:hover {
+  color:#c6993a;
+}
+
+.site-project-cta::before {
+  background-color:#c6993a;
+}
+
+.site-contact-title span {
+  color: #c6993a;
+}
+
+.form-control {
+  border-color:#c6993a;
+  font-weight: 500;
+}
+
+.site-about-company {
+  padding: 0px;
+}
+
+.btn-primary:hover {
+  background-color: #2d3136;
+}
+
+#contact-form-status {
+  color: green;
 }

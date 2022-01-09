@@ -37,7 +37,7 @@ publish = "public"
   # Google Analitycs
   googleAnalitycsID = "G-M08TY5ZD3T"
   # We're using formspree.io for form handling, paste your formspree url below
-  formspreeFormUrl  = "https://formspree.io/myykjpje"
+  formspreeFormUrl  = "https://formspree.io/f/mlezdkql"
 
   # Contact Form
   [params.contactForm]
@@ -58,8 +58,8 @@ publish = "public"
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/background.jpeg"
-    heading               = "We are a Plymouth based Carpentry and Building company"
-    tagline               = "We specialise in custom builds, and all your domestic carpentry jobs to garden and commercial projects as well as any Maintenance requirements."
+    heading               = "We are a South West based Carpentry & Construction Company"
+    tagline               = "We specialise in custom design and builds on a wide range of projects for your home, garden and business"
     primary_button        = "See Our Work"
     primary_button_url    = "portfolio"
     secondary_button      = "Contact us"
@@ -81,40 +81,31 @@ publish = "public"
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Contact Info"
-      address = "713 Elmwood St.<br>Prior Lake, MN 55372"
-      phone   = "409-896-1444"
-      email   = "info@roxo.co"
+      address = ""
+      phone   = "+447818695032"
+      email   = "mike@customcarpentrysouthwest.co.uk"
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"
         [[params.footer.sitemap.link]]
-          name = "About Company"
+          name = "About Custom Carpentry"
           url  = "about"
         [[params.footer.sitemap.link]]
-          name = "Projects"
+          name = "Portfolio"
           url  = "portfolio"
         [[params.footer.sitemap.link]]
-          name = "Blog"
-          url  = "blog"
-        [[params.footer.sitemap.link]]
-          name = "Contact"
+          name = "Contact us"
           url  = "contact"
       # Footer Social Media
       [params.footer.social]
         title   = "Social Media"
         [[params.footer.social.link]]
-          name = "Medium"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Behance"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Dribbble"
-          url  = "#"
+          name = "Facebook"
+          url  = "https://www.facebook.com/customcarpentryuk"
         [[params.footer.social.link]]
           name = "Instagram"
-          url  = "#"
+          url  = "https://www.instagram.com/customcarpentry.sw"
       # Footer Service
       [params.footer.service]
-        title       = "We help brands:"
-        description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
+        title       = "We help customers"
+        description = "With a highly skilled team we always go the extra mile to give all clients 100% satisfaction on any projects undertaken. All aspects of carpentry from small domestic jobs to larger commercial work covered."
