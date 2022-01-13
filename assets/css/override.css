@@ -63,14 +63,6 @@ h1,h2,h3,h4,h5,h6 {
   color: #c6993a;
 }
 
-.site-hero-content h1 span {
-  background-color: black;
-}
-
-.site-hero-content h6 span {
-  background-color: black;
-}
-
 .site-hero-content h1,h6 {
   color: white;
 }
@@ -81,7 +73,7 @@ h1,h2,h3,h4,h5,h6 {
 
 .site-hero-content h6 {
   margin-bottom: 75px;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .site-project-cta {
@@ -115,4 +107,12 @@ h1,h2,h3,h4,h5,h6 {
 
 #contact-form-status {
   color: green;
+}
+
+.site-hero-content-buttons .btn-secondary {
+  background-color: #c6993a;
+}
+
+.site-hero-content-buttons .btn-secondary:hover {
+  background-color: #2d3136;
 }
