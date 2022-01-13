@@ -68,7 +68,7 @@ publish = "public"
   [params.portfolio]
     enable    = true
     title     = "OUR RECENT WORK"
-    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+    subtitle  = "Take a look at what we've delivered for our clients"
 
   [params.call_to_action]
     enable              = true
