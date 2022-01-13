@@ -2,33 +2,22 @@ enable  : true
 title   : "WHAT OUR CLIENTS SAY"
 subtitle: "What our clients says about our services."
 testimonial_item :
-  - thumb : "images/testimonial/user-thumb-one.jpg"
-    name  : "Keith Parr"
-    company_position: "CEO, Maff Howard"
-    quote : > 
-            "We were really happy with the work that Michael completed, he built me a treehouse in my garden." 
-  - thumb : "images/testimonial/user-thumb-one.jpg"
-    name  : "Keith Parr"
-    company_position: "CEO, Maff Howard"
-    quote : > 
-            "We were really happy with the work that Michael completed, he built me a treehouse in my garden." 
-  - thumb : "images/testimonial/user-thumb-one.jpg"
-    name  : "Keith Parr"
-    company_position: "CEO, Maff Howard"
-    quote : > 
-            "We were really happy with the work that Michael completed, he built me a treehouse in my garden." 
-  - thumb : "images/testimonial/user-thumb-one.jpg"
-    name  : "Keith Parr"
-    company_position: "CEO, Maff Howard"
-    quote : > 
-            "We were really happy with the work that Michael completed, he built me a treehouse in my garden." 
-  - thumb : "images/testimonial/user-thumb-one.jpg"
-    name  : "Keith Parr"
-    company_position: "CEO, Maff Howard"
-    quote : > 
-            "We were really happy with the work that Michael completed, he built me a treehouse in my garden." 
-  - thumb : "images/testimonial/user-thumb-one.jpg"
-    name  : "Keith Parr"
-    company_position: "CEO, Maff Howard"
-    quote : > 
-            "We were really happy with the work that Michael completed, he built me a treehouse in my garden." 
+  - name  : "Hannah Boyle"
+    quote : >
+            "Custom Carpentry have designed and built two gorgeous cabinest for alcoves next to a fireplace for us. They were kind and friendly and took time to work out what we wanted and how best to do that for us. 
+            I would have no hesistation in recommending them to friends and family in fact a friend has already commissioned a piece." 
+  - name  : "Robert Swan"
+    quote : >
+            "Great job on bespoke understorage seating. Quick to respond and quick to complete. Thanks guys 👍"
+  - name  : "Leseley Torbuck"
+    quote : >
+            "Mike has done several jobs for us over the past year, all to an excellent standard. He is proactive and comes up with some great ideas and solutions. Couple that with his happy and positive attitude and he'll do you proud."
+  - name  : "Georgina Orrell"
+    quote : >
+            "Mike and his team worked professionally starting and finishing the project on time. I would recommend Custom Carpentry."
+  - name  : "Alan Negus"
+    quote : >
+            "Great job done with fantastic service - will definitely be using them again. Definitely recommend to family and friends."
+  - name  : "Paul Sharps"
+    quote : >
+            "We have just had Mike and his team of Mikes in to do a pation. I would happily recommend their services.
